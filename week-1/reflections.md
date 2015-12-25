@@ -41,3 +41,25 @@ help —> use this to search for information about commands
 
 
 # 1.4 Forking and Cloning Reflection
+
+### How to create a repository:
+1. Login to GitHub
+2. Click the “+” in the top right corner of the screen next to your  picture
+3. Click “New Repository” in the drop down list
+4. On the new screen, type a name for your repository
+5. Choose whether to allow anyone to see the repository or to make it private
+6. Click “Create Repository” at the bottom of the screen
+
+### How to fork a repository:
+1. Go to the URL of the repository you want to fork
+2. Click “Fork” in the top right corner beneath your picture
+3. The page that loads contains the forked repository, nested within your personal GitHub account
+
+### How to clone a repository:
+1. Open the terminal on your computer
+2. Navigate to the directory where you want to clone the repository
+3. Type: git clone [URL OF THE DEPOSITORY YOU WANT TO CLONE]
+
+You fork a repository instead of creating a new one because then you can make changes and merge the fork back into the main body of code later.
+
+I didn’t have any huge problems setting up git or GitHub. The way they work together reminds me of Google Drive. In setting them up, I learned how to better navigate my terminal and how to search and find projects on GitHub.
