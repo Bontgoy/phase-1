@@ -88,14 +88,24 @@ p:nth-child(4) {
 
 /*
 
-What is important to know when linking an external file (like a stylesheet) to an HTML file?
+1. What is important to know when linking an external file (like a stylesheet) to an HTML file?
 
-What tricks did you use to help you with positioning? How hard was it to get the site as you wanted it?
+It is important to know the three elements of the link: (1) Type - usually "text/css" (2) rel - usually "stylesheet" (3) href - the link to the file you want to link in. Its important to double check that the file link is correct.
 
-What CSS did you use to modify the element style (like size, color, etc.)
+2. What tricks did you use to help you with positioning? How hard was it to get the site as you wanted it?
 
-Did you modify the HTML to include classes or ids? If so, which did you choose and why? If you didn't, how would you know which one to add to your HTML?
+First we tried to float the sections to position them, but we could not get the sections to float next to each other properly. Instead, we adjusted the padding and margins to make the site look how we wanted. The hardest part by far was getting the links to appear in two columns. The other parts of the site did not take nearly as much time.
 
-When you compared your site to the actual code base, which do you think had cleaner code that followed best practices and why?
+3. What CSS did you use to modify the element style (like size, color, etc.)
+
+We used font-size, color, background-color, padding, margin, width.
+
+4. Did you modify the HTML to include classes or ids? If so, which did you choose and why? If you didn't, how would you know which one to add to your HTML?
+
+Yes, we used both classes and ids. We mostly worked with ids so that we could edit individual elements separately. However, to make the lines, we used class so that we could edit all of the lines at once, in the same way.
+
+5. When you compared your site to the actual code base, which do you think had cleaner code that followed best practices and why?
+
+The original Berkshire page makes all style edits in HTML. This is not a best practice because you must style each individual element. While our code is longer (since it includes both CSS and HTML), it is more flexible and will allow us to do more in the future.
 
 */
