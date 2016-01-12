@@ -1,0 +1,101 @@
+html {
+  background-color: #ffffff;
+}
+
+* {
+  color:#000080;
+}
+
+a {
+  color:#800080;
+}
+
+a:visited {
+  color:#ff0000;
+}
+
+li p {
+  font-size: 10px;
+  margin-top: 3px;
+}
+
+li {
+  margin-bottom:15px;
+}
+
+#left {
+  float:left;
+  width:50%;
+}
+
+#right {
+  float:none;
+  word-wrap: break-word;
+}
+
+#title {
+  font-weight:bold;
+  text-align:center;
+}
+
+p:first-child {
+  font-size:24px;
+}
+
+span {
+  font-size:48px;
+}
+
+#otherspan {
+  font-size:18px;
+}
+
+p:nth-child(4) {
+  font-size:18px;
+}
+
+#first {
+  margin-top:-20px;
+}
+
+#second {
+  margin-top:-15px;
+}
+
+#third {
+  margin-top:-15px;
+}
+
+#geico {
+  font-weight:normal;
+  font-size:13px;
+  text-align:center;
+  padding-top:10px;
+}
+
+#copyright {
+  font-size:10px;
+}
+
+.hr {
+  border:1px ridge black;
+  clear:both;
+}
+
+#legal {
+  padding-top:10px;
+}
+
+/*
+
+What is important to know when linking an external file (like a stylesheet) to an HTML file?
+
+What tricks did you use to help you with positioning? How hard was it to get the site as you wanted it?
+
+What CSS did you use to modify the element style (like size, color, etc.)
+
+Did you modify the HTML to include classes or ids? If so, which did you choose and why? If you didn't, how would you know which one to add to your HTML?
+
+When you compared your site to the actual code base, which do you think had cleaner code that followed best practices and why?
+
+*/
