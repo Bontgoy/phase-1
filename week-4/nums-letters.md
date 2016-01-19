@@ -25,3 +25,36 @@ puts 365*24
 ```ruby
 puts 10*364*24*60
 ```
+
+###Release 5: Exercises
+
+*1. Defining Variables* -> https://github.com/alran/phase-0/blob/master/week-4/defining-variables.rb
+
+*2. Simple String Methods* ->
+
+*3. Local Variables and Basic Arithmetical Operations* ->
+
+
+###Release 7: Reflect
+
+#####1. How does Ruby handle addition, subtraction, multiplication, and division of numbers?
+
+
+#####2. What is the difference between integers and floats?
+
+
+#####3. What is the difference between integer and float division?
+
+
+#####4. What are strings? Why and when would you use them?
+
+
+#####5. What are local variables? Why and when would you use them?
+
+
+#####6. How was this challenge? Did you get a good review of some of the basics?
+
+
+
+
+
