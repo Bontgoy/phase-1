@@ -30,7 +30,7 @@ puts 10*364*24*60
 
 *1. Defining Variables* -> https://github.com/alran/phase-0/blob/master/week-4/defining-variables.rb
 
-*2. Simple String Methods* ->
+*2. Simple String Methods* -> https://github.com/alran/phase-0/blob/master/week-4/simple-string.rb
 
 *3. Local Variables and Basic Arithmetical Operations* ->
 
