@@ -32,28 +32,34 @@ puts 10*364*24*60
 
 *2. Simple String Methods* -> https://github.com/alran/phase-0/blob/master/week-4/simple-string.rb
 
-*3. Local Variables and Basic Arithmetical Operations* ->
+*3. Local Variables and Basic Arithmetical Operations* -> https://github.com/alran/phase-0/blob/master/week-4/basic-math.rb
 
 
 ###Release 7: Reflect
 
 #####1. How does Ruby handle addition, subtraction, multiplication, and division of numbers?
 
+Ruby handles addition, subtraction, multiplication and division similar to a calculator. However, unlike a calculator, if the numbers being acted upon are integers, it will not give a float as an output.
 
 #####2. What is the difference between integers and floats?
 
+An integer is a whole number without a decimal point. A float has a decimal point.
 
 #####3. What is the difference between integer and float division?
 
+In integer division, the output is rounded down to the nearest whole number. In float division, the output can have a decimal point.
 
 #####4. What are strings? Why and when would you use them?
 
+Strings are combinations of letters, numbers, and other characters in a set order, like a sentence. You might use them to present words, sentences, or paragraphs. Or you might use them anytime you want to keep elements together in a certain order
 
 #####5. What are local variables? Why and when would you use them?
 
+A local variable is a variable that is tied to a specific local scope. For example, a variable that is created within a function is only usable within that function. You cannot call it outside the function.
 
 #####6. How was this challenge? Did you get a good review of some of the basics?
 
+This challenge was a good review of the basics. I don't remember anything!
 
 
 
